@@ -1,0 +1,5 @@
+email-validator
+Flask
+flask-wtf
+requests
+urllib3
